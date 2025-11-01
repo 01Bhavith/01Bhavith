@@ -2,6 +2,10 @@
 
 ## Hi there<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="30px" height="30px"> I'm Bhavith V || Computer Science & Engineering Student at Canara Engineering College,Bantwal.
 
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)](https://hacktoberfest.com/)
+
+[![An image of @01bhavith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/01bhavith)](https://holopin.io/@01bhavith)
+
 ## 🚀 About Me
 
 - 🔒 Aspiring **Cybersecurity Professional** with a focus on secure application development
