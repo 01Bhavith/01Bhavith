@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+Bhavith+V;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
-## Hi there<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="30px" height="30px"> I'm Bhavith V || Computer Science & Engineering Student at Canara Engineering College,Bantwal.
+## Hi there<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave" width="30px" height="30px"> I'm Bhavith V || Computer Science & Engineering Student at Canara Engineering College, Bantwal.
 
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)](https://hacktoberfest.com/)
 
@@ -17,9 +17,6 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>
-
-**Frameworks & Libraries:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Tools & Platforms:**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
